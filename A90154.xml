@@ -1,0 +1,251 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The propositions of Ovven Roe O Neile sent to Col. Monck, and a cessation for three months concluded between them. Together with a letter thereupon, sent by a gentleman at Dundalk to his friend at Corck.</title>
+            <author>O'Neill, Owen Roe, 1590?-1649.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90154</idno>
+            <idno type="STC">Wing O340</idno>
+            <idno type="STC">Thomason E531_15</idno>
+            <idno type="STC">Thomason E562_15</idno>
+            <idno type="STC">ESTC R205699</idno>
+            <idno type="EEBO-CITATION">99865001</idno>
+            <idno type="PROQUEST">99865001</idno>
+            <idno type="VID">165236</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A90154)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 165236)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 82:E531[15] or 86:E562[15])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The propositions of Ovven Roe O Neile sent to Col. Monck, and a cessation for three months concluded between them. Together with a letter thereupon, sent by a gentleman at Dundalk to his friend at Corck.</title>
+                  <author>O'Neill, Owen Roe, 1590?-1649.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>in the year of our Lord God, 1649. Are to be sold at Roches building,</publisher>
+                  <pubPlace>Printed at Corck :</pubPlace>
+                  <date>[1649]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signatures: A⁴.</note>
+                  <note>Annotation on Thomason copy: "July. 6th.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ireland --  History --  1625-1649 --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-02</date>
+            <label>Susie Lorand</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>Susie Lorand</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:165236:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 8 -->
+            <p>THE PROPOSITIONS OF OVVEN ROE O NEILE <hi>SENT TO</hi> COL. MONCK, And a Ceſſation for three months con<g ref="char:EOLhyphen"/>cluded between them:</p>
+            <p>
+               <hi>Together with a Letter thereupon, ſent by a Gentleman at Dundalk to his friend at CORCK.</hi>
+            </p>
+            <p>
+               <hi>Printed at</hi> Corck, <hi>in the yeare of our Lord God,</hi> 1649. <hi>Are to be ſold at Roches building.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="propositions">
+            <pb facs="tcp:165236:2"/>
+            <!-- PDF PAGE 9 -->
+            <head>The Propoſitions of Generall <hi>Owen O Neile,</hi> the Lords, Gentry, and Commons of the Confederate Catholiques of <hi>Ulſter:</hi> To the moſt Honourable and moſt potent, the Parliament of England.</head>
+            <p n="1">
+               <hi>
+                  <seg rend="decorInit">I</seg>N primis</hi> That all Lawes, Statutes, Penalties made, paſt or concluded againſt the Roman Catholiques their Miniſters or profeſſors their liberty or exerciſe of the ſaid Religion, ſince the twentieth yeare of <hi>Henry</hi> the eight, be repealed, reclaimed and perpe<g ref="char:EOLhyphen"/>tually taken off, and that act to extend to the ſaid partie and their iſſues, and ſucceſſors for ever.</p>
+            <p n="2">2. The ſaid Generall <hi>Owen O Neile</hi> deſireth that an act of Oblivion be paſſed to extend to all and every of his partie for all things done ſince the begining of the yeare 1641.</p>
+            <p n="3">3. They deſire that Generall <hi>Owen O Neile</hi> be provided for with a Competent Commaund in the Army befitting his Worth, Place and Quality.</p>
+            <p n="4">4. They deſire that all Lands taken Illegally from the ſaid partie and every of them, or their Anceſtors ſince 1<hi rend="sup">o</hi> 
+               <hi>Iacobi</hi> be reſtored to them.</p>
+            <p n="5">5. That the ſaid partie be made capable and Intruſted, in all Commaunds Martiall and Civill by Sea and Land.</p>
+            <p n="6">6. That all Incapacities, Inhability, and diſtruſt hitherto by Act of State or otherwiſe, againſt the ſaid partie be taken off.</p>
+            <p n="7">7. That on both ſides all Jealouſies, hate and averſion be laid aſide, unity, love and amity be renewed and Proclai<g ref="char:EOLhyphen"/>med betweene both parties.</p>
+            <p n="8">8. That Generall <hi>Owen O Neile</hi> be reſtored and put in poſ<g ref="char:EOLhyphen"/>ſeſſion of his Anceſtors Eſtates, untill it be tryed whether the ſame eſtates were illegally taken away or not.</p>
+            <p n="9">9. That the ſaid partie be provided with and poſſeſſed of a Convenient Sea-port in the Province of <hi>Vlſter.</hi>
+            </p>
+            <p>That the Army belonging to Generall <hi>Owen O Neile</hi> and his partie be provided for in all points as the reſt of the Army ſhalbe.</p>
+            <closer>
+               <hi>Copia Vera.</hi> 
+               <signed>Owen O Neile.</signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb facs="tcp:165236:2"/>
+            <!-- PDF PAGE 9 -->
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>I Have receaved yours of the 25. of Aprill and I have ſeene your order given to Captaine <hi>Hugh Mac Patrick Mac Mahon</hi> to treat and conclude a peace with me in the behalfe of your ſelfe and the Forces under your Commaund. I have peruſed your propoſitions and conceiving there are ſome par<g ref="char:EOLhyphen"/>ticulars in them which at the firſt view the Parliament of <hi>Eng<g ref="char:EOLhyphen"/>land</hi> may ſcruple to grant, I have made a ſmall alteration in ſome of them, being well aſſured that by it you will not receive the leaſt diſadvantage, but it will rather prove a meanes to be<g ref="char:EOLhyphen"/>get an increaſe of their good opinion towards you and your partie which I believe your reallity, fidelity and action in their ſervice will ſufficiently merit, and in caſe you approve of them as I have reviſed and altered them, I deſire you to ſend them to me ſigned and ſealed by you that I may preſent them to the Parliament of <hi>England,</hi> to obtaine their favourable anſ<g ref="char:EOLhyphen"/>wer in returne of them, and in the meane time I deſire that ac<g ref="char:EOLhyphen"/>cording to this incloſed paper, three months ceſſation be con<g ref="char:EOLhyphen"/>deſcended unto and agreed betweene us, and inviolably kept betweene our forces during the ſaid time,</p>
+            <closer>
+               <dateline>
+                  <hi>Dondalke</hi> 
+                  <date>26. <hi>April,</hi> 1649.</date>
+               </dateline>
+               <signed>George Moncke.</signed>
+            </closer>
+         </div>
+         <div type="propositions">
+            <head>A ſecond Copy of Owen Roe O Neile's Propoſitions as they were cor<g ref="char:EOLhyphen"/>rected by Colonell Monck &amp; ſent to the Parliament to be granted.</head>
+            <p n="1">1. <hi>IN primis,</hi> That ſuch as ſhall joyne with Generall <hi>O Neile</hi> in the ſervice of the Parliament of England in this King<g ref="char:EOLhyphen"/>dome, may have liberty of Conſcience for themſelves and their iſſue.</p>
+            <p n="2">2. The ſaid Generall <hi>O Neile</hi> deſireth an act of Oblivion be paſſed, to extend to all and every of his partie for all things done ſince the beginning of the yeare 1641.</p>
+            <p n="3">3. They deſire that Generall <hi>O Neile</hi> be provided for a com<g ref="char:EOLhyphen"/>petent command in the Army befitting his worth, place and quality.</p>
+            <p n="4">4. They deſire that they may enjoy all thoſe Lands that
+<pb facs="tcp:165236:3"/>
+               <!-- PDF PAGE 10 -->were in their poſſeſſion at the beginning of this war for them<g ref="char:EOLhyphen"/>ſelves &amp; heires, during their fidelity to the Intereſt of <hi>England.</hi>
+            </p>
+            <p n="5">5. That all Incapacity, Inhability and diſtruſt hitherto by acts of State or otherwiſe againſt the ſaid partie be taken off.</p>
+            <p n="6">6. That on both ſides all Jealouſies, hate and averſion be laid aſide, unity, love and amity renewed and practiſed between both parties.</p>
+            <p n="7">7. That Generall <hi>O Neile</hi> may be reſtored and put in poſ<g ref="char:EOLhyphen"/>ſeſſion of his Anceſtors Eſtates or ſome other eſtate equivalent to it in reward of his merit and the good ſervice that he ſhall performe in the Parliament of Englands ſervice in the preſer<g ref="char:EOLhyphen"/>vation of their intereſt in this Kingdome.</p>
+            <p n="8">8. That the Army belonging to the Generall <hi>O Neile</hi> and his partie be provided for in all points as the reſt of the Army ſhall be.</p>
+            <p n="9">9. That the ſaid partie be provided with and poſſeſſed of a convenient Sea-port in the Province of Ulſter.</p>
+            <p>
+               <hi>And I doe upon receiving a Confirmation of thoſe deſires un<g ref="char:EOLhyphen"/>dertake and promiſe in the behalfe of my ſelfe and the whole par<g ref="char:EOLhyphen"/>tie under my Commaund, Faithfully and firmely to adhere to the Parliament of</hi> Englands <hi>ſervice in this Kingdome and to main<g ref="char:EOLhyphen"/>taine their Intereſt hereafter with the hazard of our lives and E<g ref="char:EOLhyphen"/>ſtates againſt all oppoſers whatſoever. </hi>
+            </p>
+            <closer>
+               <dateline>
+                  <hi>Given under my hand and Seale.</hi>
+               </dateline>
+            </closer>
+         </div>
+         <div type="propositions">
+            <head>Colonell George Monck his Propoſitions to Generall Owen Roe O Neile.</head>
+            <p>
+               <hi>THat there be a Ceſſation of Armes betweene the forces under the Command of Generall</hi> Owen O Neile <hi>and the forces under Command of Colonell</hi> George Monck, <hi>for the ſpace of three months beginning the firſt of this inſtant May, before which time be ended I am certaine to receive the Parliaments anſwer to your propoſiti<g ref="char:EOLhyphen"/>ons.</hi>
+            </p>
+            <p>
+               <hi>That upon all occaſions during the ſaid time wee be ready to aſſiſt
+<pb facs="tcp:165236:3"/>
+                  <!-- PDF PAGE 10 -->one another till a more abſolute agreement be made and condeſcen<g ref="char:EOLhyphen"/>ded unto by the Parliament of England.</hi>
+            </p>
+            <p>
+               <hi>For ſuch Creats as pay me contribution I ſhall be contented that they likewiſe pay contribution to the forces under Generall</hi> Owen O Neiles <hi>Command, provided that I may have liberty to bring in ſuch Creats of the Province of Vlſter under Contribution to me, who have not yet payd any to the forces under my Command.</hi>
+            </p>
+            <p>
+               <hi>If any proviſions arrive into any Harbour under my Command for the uſe of Generall</hi> Owen O Neile, <hi>or any under his command; that freedome be given to him to ſend and fetch thoſe proviſions thence with ſafety, provided he continueth an enemy to the enemies of the Parliament of England in this Kingdome.</hi>
+            </p>
+         </div>
+         <div type="letter">
+            <head>To my worthy friend  <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap>  at Corck in Munſter.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>YOu may wonder my obligations being ſo great towards you, that my returnes of acknowledgement ſhould be ſo ſeldome as they have been, but you muſt know there is no defect in my deſires to be at your eares often, tis onely the preſervation of my liberty and ſafety in theſe parts that makes me forbeare the frequency of ſuch Intercourſes. I am confident theſe letters, this Meſſenger, and the encloſed papers, which I here ſend you, (containing a true Copy of the Propoſitions and Letters of A<g ref="char:EOLhyphen"/>greement between <hi>Owen Roe O Neile,</hi> and Col. <hi>George Monck</hi>) will be able to give you ſome accompt of the paſſages in theſe parts, and will make you aſſur'd that I doe not forget the reſ<g ref="char:EOLhyphen"/>pects I owe unto you.</p>
+            <p>I muſt confeſſe to you, that (as you ever conceiv'd) I never could imagin that the Parliament proceedings would have ad<g ref="char:EOLhyphen"/>vanced to ſo high a degree of rage &amp; wickedneſſe, as I ſee they are now come to, and are reſolv'd to Act by. But being amaz'd at the Kings Murther, And ſeeing the Gangreane doth ſo cru<g ref="char:EOLhyphen"/>elly ſpread, I will impart to you my reſolution. That I am re<g ref="char:EOLhyphen"/>ſolv'd to get into your parts with the firſt conveniency, &amp; ad<g ref="char:EOLhyphen"/>heare to you there, whoſe actions are more conducing to the
+<pb facs="tcp:165236:4"/>
+               <!-- PDF PAGE 11 -->preſervation of our Religion, Law, and comon Intereſt, then any where elſe, that I can finde. But that this my ſo ſudden re<g ref="char:EOLhyphen"/>ſolution may not be conceiv'd the fruit of ſome vaine feare, miſcariage in my ſelfe, or light deſires to abandon my former principles. I ſhall give you a right underſtanding of all the mo<g ref="char:EOLhyphen"/>tions and paſſages of my ſoule, ſince I was acquainted with this late treaty between Colonell <hi>Monck</hi> and <hi>Owen Roe O Neile,</hi> that thereby you may judge of the ground of theſe my deſignes and diſtaſts and my reſolutions taken thereupon.</p>
+            <p>And before I conſider the particulars of the treaty, the thing it ſelfe is ſo Odious unto me, that if they could have made the beſt bargaine to be imagined for the Engliſh ſafety, The man<g ref="char:EOLhyphen"/>ner of it, would have appear'd to me very unſavory.</p>
+            <p>For although it cannot be denied that almoſt the whole Iriſh party (in regard of their Confederacys and combinations) have not been innocent in all particulars, of that vaſt Ocean of <hi>Eng<g ref="char:EOLhyphen"/>liſh</hi> blood that hath been ſhedd. Yet it is moſt cleere that the plotters and contrivers of this Treaſon, and the unnaturall and butcherly executioners thereof, are that party principally, which are now headed by <hi>Owen O Neile.</hi> For although many of the <hi>Pale,</hi> with others of <hi>Conaught, Leinſter</hi> and <hi>Munſter,</hi> entertained the deſigne, when they ſaw it was ſo far ſpread, and the <hi>Engliſh</hi> ſo much weakned in their perſons and poſſeſſions, yet it cannot be denyed but this Kingdome had ſtill many moderate-minded men, that lothed their Country-mens barbarity, and could ne<g ref="char:EOLhyphen"/>ver be drawne to adheare to their party in their leaſt conſent. Now for the Parliament Agents to gather up theſe men (and theſe only) that have been drunk with the blood of their bre<g ref="char:EOLhyphen"/>thren, and to fortifie them with Armes, Counſells, and con<g ref="char:EOLhyphen"/>junction of forces, that thereby they may preſerve to themſel<g ref="char:EOLhyphen"/>ves the Triumphs of their cruelty and Treachery, and to lapp them up in their affections with promiſes of reward, if they will perſevere to act with them the ruine of the <hi>King</hi> &amp; <hi>Monarchy,</hi> the diſtruction of the remnant of the <hi>Engliſh Proteſtants,</hi> and the antient Iriſh who have now declared their loyalty, and ſub<g ref="char:EOLhyphen"/>mitted to, and conſociated with them, are things that I much lothe, and can no way imbrace.</p>
+            <pb facs="tcp:165236:4"/>
+            <!-- PDF PAGE 11 -->
+            <p>Beſides if you conſider the paſſages of the Treaty, you will eaſily be drawne (I ſuppoſe) to caſt away your former inter<g ref="char:EOLhyphen"/>tained ſcruples, and not condemne mee for being out of love with mine.</p>
+            <p n="1">For firſt: The title to <hi>Owen Roes</hi> propoſitions excludes all o<g ref="char:EOLhyphen"/>ther of his Nation but ſuch as will joyne with him, though they be far more capable of peace and pardon then himſelfe or his party.</p>
+            <p n="2">2. Hee and his party who in a late paper of theirs ſtil'd the Parliament of <hi>England, Monſtrofum Parliamentum</hi> (The Mon<g ref="char:EOLhyphen"/>ſtrous Parliament) when (as then) it had not beſmear'd it ſelfe with Royall, Sacred, and Noble Blood, as ſince it hath done. Yet now where he ſees them Act like himſelfe, he hath taught his tongue to quaver and calls them <hi>The moſt Honorable and Po<g ref="char:EOLhyphen"/>tent Parliament.</hi> When all Honour is perſecuted by them, and no power exercis'd by them but brutiſh violence, and extreame Tyranny.</p>
+            <p n="3">3. In the ſecond Propoſition: That an Act of Oblivion be paſſed to extend to all and every of <hi>Owen O Neiles</hi> party for all things done ſince the yeare 1641. you ſhall find that <hi>Monck</hi> approves of it totally without the leaſt reſerve of puniſhment to any the moſt bloody plotters &amp; murtherers whatſoever that are in that crew, which maks me more in love with my Lord of <hi>Ormonds</hi> Peace then I was before.</p>
+            <p n="4">4. Tis propounded by <hi>Owen Roe,</hi> and approved by <hi>Monck,</hi> that he ſhall have a Sea-port to himſelf to make uſe of, for the perfecting of his deſignes, when (as we heare) the leaſt Traffick will not be allowed to you in Munſter.</p>
+            <p n="5">5. Although Col. <hi>Monck</hi> doe a little pare his Propoſitions concerning the repealing of Statuts againſt Roman Catholicks ſince <hi>Hen.</hi> 8. leſt he ſhould offend the people, And though he doe not abſolutely undertake to grant him all his Anceſtors Lands (which when he is once ſtiled <hi>O Neile</hi> he will challenge to be the ſix eſcheated Countyes) yet by <hi>Moncks</hi> letter he is aſ<g ref="char:EOLhyphen"/>ſured that hee ſhall not receive the leaſt diſadvantage thereby. All which directions, councells and aſſurances (I am confident)
+<pb facs="tcp:165236:5"/>
+               <!-- PDF PAGE 12 -->Col. <hi>Monck</hi> would not have uſed towards him, if he had not had a Parliament foundation to warrant him.</p>
+            <p>Thus you ſee thoſe men who lately were utter enemies, have confederated together to ruine <hi>Monarchy</hi> &amp; the <hi>Proteſtant Re<g ref="char:EOLhyphen"/>ligion,</hi> meerly to raiſe themſelves, and ſupport their own facti<g ref="char:EOLhyphen"/>on. They will not here allow the King to make uſe of his owne ſubjects, to revenge His Fathers Blood, to Reinthrone him<g ref="char:EOLhyphen"/>ſelfe, to reeſtabliſh Religion and the Lawes, and juſt liberties, And yet they allow themſelves a latitude of calling in any par<g ref="char:EOLhyphen"/>ty, though the moſt bloody and inhumane, to aſſiſt them, in the carrying on their wicked deſignes. Wee have ſeen <hi>Col. Jones</hi> his Letters, cenſuring the Lord of <hi>Ormonde,</hi> for joyning the Iriſh to his party (though the beſt and leaſt culpable of them) and yet the ſame <hi>Jones</hi> (whoſe head and hand is in this Treaty and concluſion) thinks it allowable in himſelf to cloſe with the worſt, and that upon their owne termes. And though <hi>Col. Moncks</hi> hipocriſie (in correcting <hi>Owen O Neile's</hi> ſeventh Article) will not allow that unity and amity ſhall be publickly proclaimed between them, yet he is willing it ſhall be practiſes, and they ſhall mutually aſiſt one-another againſt all oppoſers whatſoever. That is the KING and all in Authority under him.</p>
+            <p>
+               <hi>The Conſideration of theſe things hath left ſuch an impreſſi<g ref="char:EOLhyphen"/>on upon my ſoule, that I am reſolved to make ſpeed to you, noe way deſireing to live under their Commaunds, whoſe actions increaſe in horrour, and beget new afflictions to all honeſt Engliſh harts. So praying you to forbeare further writing to me, becauſe I meane ſpeedily to ſee you, I reſt.</hi>
+            </p>
+            <closer>
+               <signed>Your aſſured freind and Servant.</signed>
+               <dateline>Dundalk <date>May: 20. 1649.</date>
+               </dateline>
+            </closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:165236:6"/>
+            <!-- PDF PAGE 13 -->
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:165236:7"/>
+            <!-- PDF PAGE 14 -->
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </body>
+   </text>
+</TEI>
